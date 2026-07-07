@@ -7,8 +7,8 @@ Fillout → HubSpot → Stripe → TurboTenant Live Listings → Zite Database �
 
 ## 🌐 Core Domain
 
-- Domain: VIVIAPROPERTY.COM
-- Platform: https://turbo-tenant.zite.so/employees
+- Domain: VIVIARENTAL.COM
+- Platform: https://testwpstaging.turbotenant.com/landlord-toolbox/lease-agreement-audit-ai/#
 - System Type: Rental Operations OS + Employee Onboarding + Listing Syndication
 
 ---
@@ -79,7 +79,7 @@ utm_medium={{utm_medium}}
 ## 💳 Stripe Employee Activation Link
 
 
-https://billing.stripe.com/p/login/test_8x200j4nogd5em60pagYU00?client_reference_id={{client_reference_id}}&email={{email}}&role=remote_property_manager
+https://testwpstaging.zite.so/employees?client_reference_id={{client_reference_id}}&email={{email}}&role=remote_property_manager
 
 
 ---
